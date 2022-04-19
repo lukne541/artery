@@ -23,3 +23,6 @@
 [submodule "extern/sim0mqpp"]
 	path = extern/sim0mqpp
 	url = https://github.com/riebl/sim0mqpp.git
+[submodule "scenarios/scenario1-artery"]
+	path = scenarios/scenario1-artery
+	url = git@gitlab.liu.se:lukne541/scenario1-artery.git
