@@ -1,6 +1,9 @@
 [submodule "scenario_mt-its2017"]
 	path = scenarios/mt-its2017
 	url = https://github.com/riebl/artery_scenario_mt-its2017.git
+[submodule "scenario1-artery"]
+	path = scenarios/scenario1-artery
+	url = git@gitlab.liu.se:lukne541/scenario1-artery.git
 [submodule "extern/inet"]
 	path = extern/inet
 	url = https://github.com/riebl/inet.git
@@ -13,7 +16,7 @@
 	url = https://github.com/riebl/simulte.git
 [submodule "extern/vanetza"]
 	path = extern/vanetza
-	url = https://github.com/riebl/vanetza.git
+	url = git@github.com:lukne541/vanetza.git 
 [submodule "extern/veins"]
 	path = extern/veins
 	url = https://github.com/sommer/veins.git
